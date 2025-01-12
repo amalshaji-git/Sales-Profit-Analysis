@@ -24,7 +24,3 @@ This Power BI project provides a comprehensive analysis of sales, profit, and cu
 3. **Table**: Order-wise detailed view  
 4. **Heat Map**: Profitability by Sub-Category  
 
-## How to Use  
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
